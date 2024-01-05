@@ -13,3 +13,6 @@ Overview
 - Build with a negativty SEO attack
 - keep track of your progress
 -n Looking at results 
+
+
+~~~~~~~~What to Expect~~~~~~~~
