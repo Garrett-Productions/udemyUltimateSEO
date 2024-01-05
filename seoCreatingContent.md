@@ -17,3 +17,11 @@ Ex) if I search wireless heasdphones, what do you think google will return?
 IN SEMrush, we can type in our keyword and see under 'Keyword Ideas' that there are 'keyword variations' but also, 'Questions.'
 
 We can see how these keywords are used on their sites and see how else they are linked, and if thios site is selling content you can see exactly what they are selling and run soemthing similar and connect your site in a certain way
+
+THE POINT OF FINDING KEYWORD NICHES IS TO INCREASE TRAFFIC AND SALES
+---------------------------------------------------
+
+BLOGS
+
+Subscribe to Industry Related blogs
+1. When you subscribe on feedspot you can just insert your email right there on spot and get a subscription of new blogs to your email, there you can see their new keywords and gain further ideas of how to advertise and market your content
