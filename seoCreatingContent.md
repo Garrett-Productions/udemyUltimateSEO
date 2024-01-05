@@ -25,3 +25,11 @@ BLOGS
 
 Subscribe to Industry Related blogs
 1. When you subscribe on feedspot you can just insert your email right there on spot and get a subscription of new blogs to your email, there you can see their new keywords and gain further ideas of how to advertise and market your content
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+WHAT TO AVOID WHEN CREATING CONTENT
+1. A massive wall of text
+- use your restrsucturing awareness of content to strategically organize your content, ptohos, headers, ul's and ol's 
+* Google has a tool they use to emasure SEO called Dwell Time that says if the user stays on your page for longer that means it is more appealing to the user's eye, more inviting, less intimidating to read then other sites.
