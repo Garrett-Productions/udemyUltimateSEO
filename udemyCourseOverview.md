@@ -84,5 +84,18 @@ When you understand buyer content you can make sure the page person lands in and
 
 Long term vs Short term keywqords
 
-Short term: Yoga mat
-Long term: red non-slip yoga mat under $30
+Short tail: Yoga mat (generic)(search intent is not crystal clear)
+Long tail: red non-slip yoga mat under $30(we can generate a more concise match)
+- Long tail keywordas are way are targeted and way easier to rank for in google.
+- Start with long tail keywords
+
+
+In the next lecture, I will be showing you a Free keyword research tool called "Google Keyword planner".
+
+Just a quick note to confirm that Googles keyword planner is indeed free to use, however, to use it, you do need to sign up for a Google ads account.
+
+A compulsory part of the sign up process is to enter in your billing details and sometimes create an ad campaign.
+
+I would advise that you literally create any dummy ad campaign just to get past this initial barrier. What's super important to remember, is that as soon as the campaign is created, you want to go into the ads dashboard and PAUSE the campaign so no ads run (and you're not charged).
+
+You can even delete the campaign once its created to be on the safe side.
