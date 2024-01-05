@@ -47,9 +47,42 @@ only 2.8% people click on paid advertisements, thats why SEO is so important
 
 
 MYTHS
-1. Content is king - false
+1. Content is king - false (WE ALSO NEED LINKS, ALTHOUGH CONTENT IS EXTREMELY IMPORTANT)
 2. Page speed is not important - false
 3. Links are dead - false
 4. High keyword density helps you rank - false 
 5. buying google ads gets organic trafic - false
 6. More pages helps my site rank better ( publish quality not quanity) - false
+
+
+SEO HAS 2 MAIN ELEMENTS
+
+1. oNPAGE seo
+- updating title tag
+- changing elements
+- adding h1
+2. Offpage
+- external directory
+- update sociual media 
+
+
+~~~~~~~~~WHAT IS SEO AND WHY IS IT IMPORTANT?~~~~~~~~~~~
+What is SEO? SEO stands for search engine optimization and is the practice of increasing the quality and quantity of traffic to your website through organic search engine results. Organic traffic is any traffic that you do not pay for.
+
+If I go back to my example I just showed you of a yoga mat, if your business provides yoga mats, but your website does not show up for a search of yoga mats, then you're missing out on a ton of sales. While paid advertising, social media and other online platforms generate traffic to websites, the majority of online traffic is driven by search engines. On top of that, organic search results cover more digital real estate, appear more credible to savvy searchers, and receive way more clicks and paid advertisements. For example, of all US searches, only 2.8% of people clicked on paid advertisements. That statement alone should tell you why and how important SEO is.
+
+
+KEYWORD RESEARCH
+* A keyword is a search phrase 
+- what are your customers searching in google? target those words, and optimize your website
+
+Keyword intent 
+- Buy red yoga mat
+**they already know what they need and they want a red yoga mat
+
+When you understand buyer content you can make sure the page person lands in and what the eprson typed in which results of sales
+
+Long term vs Short term keywqords
+
+Short term: Yoga mat
+Long term: red non-slip yoga mat under $30
