@@ -16,3 +16,7 @@ Overview
 
 
 ~~~~~~~~What to Expect~~~~~~~~
+
+(An increase in traffic equals to an increase in sales and business)
+- its about creating a robust presence online
+* Our goal is to be on the first page of Google
