@@ -207,3 +207,8 @@ SEMRUSH
 
 We are searching through links on our google searches, copy and pasting the "link address" by eright click
 and pasting them into SEMrush and finding our competitors keywords, we put them into an excel spreadsheet and that way we can filter and sort them and go into our file explorer and udner "DATA' we can create a filtedr and spread from thaty individual site, and then copy and paste the data over to our master sheet, only the info that is relevant of course!. So now we have an ever-growing excel SEO, keyword research spreadsheet.
+- alot of these are duplicates we'll take care of this soon
+
+*Rinse and Repeat Strategy
+---- 
+So far we've learned how to create a keyword research template, by using SEMrush to find competitors keywords used on their sites, filtering and sorting them down and making a spreadsheet of all the best keywords on an excel spreadsheet, and niching or maximizing according to filter and need
