@@ -227,3 +227,47 @@ So far we've learned how to create a keyword research template, by using SEMrush
 ----------------How to validate keywords with Google Trends------------------
 1. Quickly making sure our keywords are trendy and checking our out 'interest over time' within GOOGLE TRENDS
 2. If they arw declining in trendiness then maybe not use it right away. QUICK CHECK upon critiquing your final list of keywords
+
+                                    QUIZ
+1. What two elements make up an SEO campaign?
+- OnpageSEP and Offpage SEO
+
+2. Which of the below is a correct description of a keyword?
+- A Keyword is the Whole Search Phrase
+
+3. What does SERP stand for?
+- Search Engine Results page
+
+4. True or False - When using Google trends, you should only view the data from the last 12 months to ensure its up to date.
+- False
+
+5. Which type of keyword is more likely to drive sales for a website?
+- Long tail keywords are more specific and as a result naturally have a higher buyer intent behind them.
+
+
+How many keywords should I target on a page?
+How many keywords should I target on a page?
+
+
+
+Glad you asked :)
+
+
+
+The straightforward answer is as many relevant keywords as possible.
+
+
+
+The key word in that sentence is 'relevant'.
+
+
+
+If you're unsure what keywords are deemed as relevant, a fantastic strategy you can use is to literally Google the keywords you are unsure about and see what webpages Google returns.
+
+
+
+If Google returns the same webpages as it did for your other keywords, then that's a strong sign that Google views both keywords as similar in terms of their intent. Meaning, you'll want to target the keywords on the same page.
+
+
+
+If you notice Google returns completely different websites, then that's a good indicator that you should not target the keyword on the same page.
