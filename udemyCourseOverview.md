@@ -178,7 +178,15 @@ $179 a month, damnnnnnn
 
 MOZBAR extension activated shows you PA & DA
 
+-------------------------------
+SEMRUSH 
+First charge:
+Jan 12, 2024$142.62 (inc. Tax) 
+
+DELETE THAT
+--------------------------------
+
 * We deep dove into Page Authority and Domain Authority by simply activating our chrome extension and seeing it organically in search results.
 - This is important because niche searches like 'non slip yoga mat uk' has a handful of URL's on paghe 1 of google with a PA & DA of under 25, which isn't hard to achieve!
 
-TRAGET THAT KEYWORD
+TARGET THAT KEYWORD
