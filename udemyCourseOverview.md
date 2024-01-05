@@ -37,3 +37,19 @@ We have recently been doing a lot of SEO on our site and are actively targeting 
 - building back links
 5. Measure progress
 - seeing keyword results
+
+--------------------
+
+WHAT IS SEO AND WHAY IS IT IMPORTANT?
+- getting organic search results to appear in the organic section
+- whatever you sell, you should show up in the keyword search 
+only 2.8% people click on paid advertisements, thats why SEO is so important 
+
+
+MYTHS
+1. Content is king - false
+2. Page speed is not important - false
+3. Links are dead - false
+4. High keyword density helps you rank - false 
+5. buying google ads gets organic trafic - false
+6. More pages helps my site rank better ( publish quality not quanity) - false
