@@ -169,14 +169,12 @@ A couple of things to note, as its a free tool, there are a few limitations such
 Keryword Difficulty
 - MozBar - chrome extension
 
-
+------------------------------
 Moz.com Account 
 1. myemail
 2. display name: Hawaii Marketing
 pass: yall ready know
 $179 a month, damnnnnnn
-
-MOZBAR extension activated shows you PA & DA
 
 -------------------------------
 SEMRUSH 
@@ -186,7 +184,13 @@ Jan 12, 2024$142.62 (inc. Tax)
 DELETE THAT
 --------------------------------
 
+MOZBAR extension activated shows you PA & DA
+
 * We deep dove into Page Authority and Domain Authority by simply activating our chrome extension and seeing it organically in search results.
 - This is important because niche searches like 'non slip yoga mat uk' has a handful of URL's on paghe 1 of google with a PA & DA of under 25, which isn't hard to achieve!
 
 TARGET THAT KEYWORD
+
+SEMRUSH
+- we have a 7 day trial 
+- we are learning how to navigate through it, filter iut down, target specific keywords and see data analytics across the web. We know to download the .csv file or bring over all the keywords from Semrush to our excel document we have to data sift.
