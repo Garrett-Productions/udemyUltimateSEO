@@ -212,3 +212,18 @@ and pasting them into SEMrush and finding our competitors keywords, we put them 
 *Rinse and Repeat Strategy
 ---- 
 So far we've learned how to create a keyword research template, by using SEMrush to find competitors keywords used on their sites, filtering and sorting them down and making a spreadsheet of all the best keywords on an excel spreadsheet, and niching or maximizing according to filter and need
+
+--------------------------------------------------------------------------------
+
+--------------------------------------HOW TO USE GOOGLE AUTO SUGGEST --------------------------
+1. type letter by letter in google and study the auto recommended searches 
+2. search your query, go check the 'see related search' section
+3. download the free tool keywordtool.io
+
+--------------------It's important to keep our keywords organized------------------
+1. remove any duplicates to clean up the spreadsheet
+2. sort by a to z and browse through and delete duplicates 
+
+----------------How to validate keywords with Google Trends------------------
+1. Quickly making sure our keywords are trendy and checking our out 'interest over time' within GOOGLE TRENDS
+2. If they arw declining in trendiness then maybe not use it right away. QUICK CHECK upon critiquing your final list of keywords
