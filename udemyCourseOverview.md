@@ -146,3 +146,12 @@ GOOGLE Ads walkthrough
 * then go back and start with a website and plug in competitors URL's in the start with website that appear from an organic google search of that keyword
 -- from here you can see all the relevant keywords that these sites use and sift through the data.
 - you can even download the .csv file and do some sifting through all these  keywords to develop a comprehensive list of data
+
+STARTING WITH KEYWORD RESERACH
+1. Find out what keywords our websites already appear for in google
+(SEMRUSH) - Has all tools built in
+- you need to use tools to create your campaign, you need to sift through tons of data before creating a campaign
+
+A CSV is a comma-separated values file, which allows data to be saved in a tabular format. CSVs look like a garden-variety spreadsheet
+
+MESS WITH SEM RUSH LATER
