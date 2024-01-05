@@ -33,3 +33,39 @@ WHAT TO AVOID WHEN CREATING CONTENT
 1. A massive wall of text
 - use your restrsucturing awareness of content to strategically organize your content, ptohos, headers, ul's and ol's 
 * Google has a tool they use to emasure SEO called Dwell Time that says if the user stays on your page for longer that means it is more appealing to the user's eye, more inviting, less intimidating to read then other sites.
+*ITS ALL ABOUT THE GOOGLE ALGORITHM
+-pPut alot of time into the structurwe of your content
+
+---------------The Importance of Fresh content----------------
+1. Google wants up to date content.
+2. At least once per month you need to increase the size of your website by 1 page, a blog post for example. Publish at least 1 piece of content per month.
+3. Its insane how many sites are created and than forgotten
+4. **Update existing content, remove headers, insert new sentences etc..
+5. -----NEW CONTENT AND UPDATE CONTENT------
+
+--------------How Long Should Your Content Be?----------
+1. Base it on websitesa that are already working
+- work out the average length of the top 3 websites
+- Pass 10% contigency so we know the whereabouts, if there are 1500 keywords in 1 site, do 10% more 
+
+****Use the tool, Wordcounter.net, search the top 3 competitive sites, click them, copy and paste all 3 main pages content into wordcounter.net
+- This is done to measure how long our cxontent should be roughly, if we copy and paste 3 sites like we did, we can see our total wordcount of 2,900 hundred words, that divided by 3,(being 3 websites) is 960..
+
+1 answered.) Avg Length is 960
+2 answered.) 1040 is when adding 10%.
+Conclusion: Make sure your website content length is at least 1000 words in length.
+
+QUIZ
+
+1. What is Googles main goal when it comes to content?
+- Provide useful and relevant results to the user
+
+2. True or false - Google is less likely to return your website to users if the content on your website has lots of spelling errors and is poorly formatted?
+- True
+
+3. Fresh content - What is the minimum threshold of content you need to upload each month on your website to reach the minimum threshold?
+- 1
+
+4. Fresh content - You can also update an existing article to satisfy the fresh content algorithm. With that being said, which  of the below actions to a blog post counts as an update?
+- changhing a picture, adding a new sentence or removing a sentence 
+
