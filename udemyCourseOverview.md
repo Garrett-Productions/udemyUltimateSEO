@@ -72,7 +72,7 @@ What is SEO? SEO stands for search engine optimization and is the practice of in
 If I go back to my example I just showed you of a yoga mat, if your business provides yoga mats, but your website does not show up for a search of yoga mats, then you're missing out on a ton of sales. While paid advertising, social media and other online platforms generate traffic to websites, the majority of online traffic is driven by search engines. On top of that, organic search results cover more digital real estate, appear more credible to savvy searchers, and receive way more clicks and paid advertisements. For example, of all US searches, only 2.8% of people clicked on paid advertisements. That statement alone should tell you why and how important SEO is.
 
 
-KEYWORD RESEARCH
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~KEYWORD RESEARCH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * A keyword is a search phrase 
 - what are your customers searching in google? target those words, and optimize your website
 
@@ -154,4 +154,31 @@ STARTING WITH KEYWORD RESERACH
 
 A CSV is a comma-separated values file, which allows data to be saved in a tabular format. CSVs look like a garden-variety spreadsheet
 
-MESS WITH SEM RUSH LATER
+MESS WITH SEM RUSH LATER - 7 to 14 free day trial
+
+-------------------
+
+KEYWORD SURFER - Google chrome Extension****
+
+A couple of things to note, as its a free tool, there are a few limitations such as:
+
+- It does not allow you to see what keywords a site ranks for, it just provides you with search volume data
+- Its a dedicated keyword research tool, meaning it has no function to check out what backlinks a website has.
+
+
+Keryword Difficulty
+- MozBar - chrome extension
+
+
+Moz.com Account 
+1. myemail
+2. display name: Hawaii Marketing
+pass: yall ready know
+$179 a month, damnnnnnn
+
+MOZBAR extension activated shows you PA & DA
+
+* We deep dove into Page Authority and Domain Authority by simply activating our chrome extension and seeing it organically in search results.
+- This is important because niche searches like 'non slip yoga mat uk' has a handful of URL's on paghe 1 of google with a PA & DA of under 25, which isn't hard to achieve!
+
+TRAGET THAT KEYWORD
