@@ -198,6 +198,12 @@ SEMRUSH
 1. We dove into going into the keyword yoga mat
 1b. we filtered through the results by volume of at least 100 results 
 2. We created a Keyword Research Template
-2b. This entails searching a keyword, diving into all keyword relations on the side panel of SEMrush, 
+2b. This entails searching a keyword, diving into all keyword themes on the side panel of SEMrush, 
     clicking the few that really pertain to us and using these to craft an excel spreadsheet
 3. We exported as an .csv or xlsv and copy and pasted those keywords into an excel spreadsheet, broken   down by categories. EX) Towels & travel and made seperate tabs for each keyword 
+
+
+----------------FINDING ALL THE KEYWORDS YOUR COMPETITORS RANK FOR------------------------
+
+We are searching through links on our google searches, copy and pasting the "link address" by eright click
+and pasting them into SEMrush and finding our competitors keywords, we put them into an excel spreadsheet and that way we can filter and sort them and go into our file explorer and udner "DATA' we can create a filtedr and spread from thaty individual site, and then copy and paste the data over to our master sheet, only the info that is relevant of course!. So now we have an ever-growing excel SEO, keyword research spreadsheet.
