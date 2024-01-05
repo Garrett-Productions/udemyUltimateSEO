@@ -99,3 +99,50 @@ A compulsory part of the sign up process is to enter in your billing details and
 I would advise that you literally create any dummy ad campaign just to get past this initial barrier. What's super important to remember, is that as soon as the campaign is created, you want to go into the ads dashboard and PAUSE the campaign so no ads run (and you're not charged).
 
 You can even delete the campaign once its created to be on the safe side.
+
+
+Option 2: Install a Google tag in your website code
+Paste your Google tag before the closing </head> tag on every page of your website you want to track.
+Click to copy
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11465125585">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11465125585');
+</script>
+
+
+Lastly, install an event snippet for each of your goals to measure website conversions
+
+Event snippets help measure users’ actions based on your conversion goals. You need to set up an event snippet for each goal.
+
+The event snippet works with the Google tag to track actions that should be counted as conversions. Choose whether to track conversions on a page load or click. 
+Page load
+Add the snippet to the page a customer reaches after completing a conversion
+Click
+Add the snippet to the page that has a button or a link you'd like to track for clicks
+Copy the snippet below and paste it in between the <head></head> tags of the page(s) you'd like to track, right after the Google tag
+
+<!-- Event snippet for Purchase conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-11465125585/uiicCJzl44UZENHd_9oq',
+      'transaction_id': ''
+  });
+</script>
+
+ 
+DELETE THE CAMPAIGN
+
+GOOGLE Ads walkthrough
+
+1. We went into tools, and into keyword planner
+- from here you can start by "searching with keywords", or "start with a website"
+* start with your keywords first and see how beneficial they already are.
+* then go back and start with a website and plug in competitors URL's in the start with website that appear from an organic google search of that keyword
+-- from here you can see all the relevant keywords that these sites use and sift through the data.
+- you can even download the .csv file and do some sifting through all these  keywords to develop a comprehensive list of data
