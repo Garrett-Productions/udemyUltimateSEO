@@ -10,7 +10,7 @@ Plug Ins used in This Course
 8. Google Auto Suggest
 9. Google Trends
 10. Yoast SEO
-11. 
+11. 301 redirects
 
 
 Resources Used(Sites)
@@ -20,7 +20,8 @@ Resources Used(Sites)
 4. feedspot.com
 5. SEMrush.com
 7. Trends.google
-8.* Ads.google(google Ads)
+8. Ads.google(google Ads)
+9. https://siteliner.com/
 
 * Do a domain overview for GardnerPropertyGroup
 - i did 6 hours of content today
