@@ -204,3 +204,41 @@ Finding Them
 - "my guide might make a great addition to your site"
 - either way talk soon
 REVIEW TEMPLATE
+
+5. Broken Link Building 
+- adds value to others websites
+1. Find relevant resource page
+2. Find Broken links on their page and reach out and ask them to link to your page instead
+(Use google search operators)
+
+EXT: Check My Links
+- find the invalid links 
+- out of that list, are the ones rleevant to you?
+- let the website owner know their links are not valid 
+
+Now we've found a relevant link that's broken
+
+EMAIL Broken Link Building TEMPLATE PHOTO
+
+
+6. Skyscraper Link Building 
+( Finding Popular Content with most amt of backlinks)
+- Improves existing popluar content and replicates backlinks
+
+1. we are creating something that people already link to
+2. We are reachiong out to the people that already showed interest in linking to similar content
+* Chances of securing backlinks is going to be high for these reasons 
+
+- This tactically makes you be attracted to the best
+
+3 steps in review
+1. Find a rleevant piece of content with lots of backlinks
+2. create something way better
+3. Ask those linking to the original piece to link to your superior content instead
+
+NEST STEP: CREATE SOMETHING BETTWE
+
+1. Length. if post has 25 tips, beat it
+2. Freshness -  is article outdated? use newer content and images
+3. Design -  design should stand out
+4. Depth - dont just list things out,, fill in the details and make it actionable
