@@ -58,3 +58,31 @@ The 3 Kings are:
 3. The Page Title
 
 Extension: SEO Meta Click
+--------------------
+
+~~~~~~~~~~~~~~~~~Image Alt text~~~~~~~~~~~~~~~~~
+1. alt text is placed in place of the image in case it cant be loaded
+2. alt text will help visually impaired individuals who need screen readers 
+
+------------           -----------------------
+
+~~~~~~What are Internal Links~~~~~~~~~~
+1. one of your pages to another 
+- increasing relevancy on your page
+In the yoga mats page include a phrase that says <p>check out our <a href="/yoga-bags">yoga bags</> here!
+
+BACK LINKS, or internal Links, are links referring to other high authority pages on your site.
+* Back Links are good to use on your home page to internally link to other main topic, keyword-used, pages on your site, likle 3 differnet sections. Meet our <a href=''>team</> here! and have a team section in your nav.
+
+Internal Links Help Link Juice Flow
+It helps with navigation for users and PA score.
+"SEO Consultant for Businesses in London.
+- Linking a smaller page from your main page will defintiely help it get picked and rise the PA & DA
+***Internal Links and how you add them, they raise your page rank a lot when used constrcutively.
+- You can link it directly in wordpress with etxtBlock and had a hyper link
+
+Google search : site.clickslice.co.uk "algortihm"
+- this is a google keyword query and it will return every page on your site with the keyword Algorithm in it
+- By internally linking a keyword such as "Algorithm" we can search like this and find all results or pages from our query
+
+
