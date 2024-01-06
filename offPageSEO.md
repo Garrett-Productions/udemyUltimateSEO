@@ -94,7 +94,7 @@ CHECKING YOUR BACK LINKS
 5. Check how many other pages its referred too
 - Its only linked to external websites that we pay attntion to, internal links aren't anything
 
-~~~~~~~~~~~What Lionks Provide~~~~~~~~~~
+~~~~~~~~~~~What Links Provide~~~~~~~~~~
 
 1. Relevance 
 - where is the link placed
@@ -108,7 +108,9 @@ CHECKING YOUR BACK LINKS
 - links from bigger websites transfer more power
 
 ~~~~~~~~~~~LINK STRATEGIES~~~~~~~~~~~
+
 1. Guest Posting 
+
 - write an article for someone elses blog.
 - great way to connect with enw readers and get your name out there while securring a link back to your website
 - this could happen in a few days!
@@ -151,3 +153,54 @@ We reach out to a lot of websites (around 2,000 a day) and have found that rough
 The amount they charge varies greatly, we've had some sites tell us it's $50 per upload, some say it's $100 and some even say it's $500 (which is crazy).
 
 There isn't a rough guide on how much sites charge, it will vary per niche, however, you'll generally find that the more authoritative the site, the more they will charge.
+
+2. Steal Your Competitor's BackLink
+
+Steps
+- Find competitors (search by keywords)(look at organic results)
+- paste the URL of competitor into SEMrush and see the amt of backlinks and filter through to see what one's they have.
+- go to links per referring domain, thats what we want to focus on.
+- Look at Follow links only. Those are the most impactful links the site has.
+- click the icon to view it 
+* Seems like a really niche, relatiove link.
+- check the DA of the site to see if you really want to get a back link
+- even though the DA is a 19, but the page is on the first page of google search, just be careful on the anchor text you use. Its a powerful method to find out what keywords and links your competitors have
+*** REACH OUT TO ALL PAGES FOR ARTICLES THAT HAVE DONE PA AND DA AND BACKLINKS CORRECTLY
+
+3. Forum Link Building
+- find relevant forums, secure a link from them
+- drives target to your website
+- establish relationships w strong links in your industry.
+
+How to Find them. (Gaming)
+- Forum + Niche
+- nniche + discussioon board 
+- niche "powered by vbulletin"
+- inurl:/form niche
+- intitle: forum niche
+
+* Respond to responses on forumsa and blogs and include hyperlinks in your response. 
+For ex) I relate to this, check out "article" on my site.
+
+4. Resource Link Building
+- pages that link out to awesome content on a given topic
+* There are literally sites that have links to other sites, and reach out to them and try to get a link too
+1. Find relevant resource pages
+2. Find the "best fit"
+3. Reach Out and try to get a link back to your site
+
+How to Find reasources
+
+Finding Them 
+
+- Digital Marketing + inurl:links
+- Digital Marketing + "helpful resources"
+- Digital Marketing + "useful resources
+- Digital Marketing + "useful links"
+
+3a) Reach out wityh email 
+- review photo taken
+- tell them their site is great, here is a similar link
+- "my guide might make a great addition to your site"
+- either way talk soon
+REVIEW TEMPLATE
