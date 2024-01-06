@@ -260,7 +260,7 @@ The straightforward answer is as many relevant keywords as possible.
 
 The key word in that sentence is 'relevant'.
 
-
+~~~
 
 If you're unsure what keywords are deemed as relevant, a fantastic strategy you can use is to literally Google the keywords you are unsure about and see what webpages Google returns.
 
