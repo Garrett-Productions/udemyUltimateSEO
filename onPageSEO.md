@@ -85,4 +85,30 @@ Google search : site.clickslice.co.uk "algortihm"
 - this is a google keyword query and it will return every page on your site with the keyword Algorithm in it
 - By internally linking a keyword such as "Algorithm" we can search like this and find all results or pages from our query
 
+QUIZ
+1. What is the definition of on page SEO?
+- any change you make on the site to improve visibility 
+
+2.What is the most effective "King" you can optimise when it comes to Onpage SEO.
+- URL
+
+3. Complete the following sentence: Image Atl Text helps..
+- Visually impaired individuals.
+
+4. What is an Internal link?
+- interrnal web page link in your site
+
+5.True or false - Internal links are not helpful when it comes to increasing the relevancy of a page.
+- False
+
+
+
+
+
+
+
+
+
+
+
 
