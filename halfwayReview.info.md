@@ -49,6 +49,7 @@ Long tail vs Short tail keywords
 
 
 STARTING WITH KEYWORD RESERACH
+* The point of KW niching is to increase traffic & sales
 
 1. Find the keywords of websites that already appear in your desired search in google
 - (SEMRUSH) - Has all tools built in
@@ -79,3 +80,34 @@ Rinse and Repeat
 
         ---Validate Keywords---
 1. Google Trends - interest over time
+
+
+~~~~~~~~~~~~~~~~~~~
+
+CREATING CONTENT
+- What value does this content provide to the user?
+
+Google Shows: 
+- sites w no grammar errors, extremely high content, well-formatted
+- High ranking, quality content must stand out
+
+-----Content Generation Ideas-----
+1. View Competition
+- search our keywords through questions on google to study competition
+- viewing competition sites to find articles, blogs, resources & content is being attached to these keywords
+- using these keywords in SEMrush, we can view KW variations & questions
+
+2. Subscribing to blogs
+- insert email, subscribe, see new content their keywords
+- gain further ideas on how to advertise & market your content
+
+----When Creating Content----
+1. No Massive walls of Text
+2. Google uses Dwell Time, piece of the algorithm, to see how long a user spends on your site, longer the better.
+3. Google wants up-to-date, fresh content.
+- once a month do a blog
+- update exisiting content to stay fresh
+
+Length of Content is based on the average length of your top 3 competitors.
+- Wordcounter.net
+Rules: avg length and 10% more rule.
