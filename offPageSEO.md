@@ -236,9 +236,18 @@ EMAIL Broken Link Building TEMPLATE PHOTO
 2. create something way better
 3. Ask those linking to the original piece to link to your superior content instead
 
-NEST STEP: CREATE SOMETHING BETTWE
+NEXT STEP: CREATE SOMETHING BETTWE
 
-1. Length. if post has 25 tips, beat it
+1. Length. if post has 25 tips, beat it (wordcounter.net)
+- if its 35 ways to use weifght. Make one that says 40 weighs to lose weight 
 2. Freshness -  is article outdated? use newer content and images
-3. Design -  design should stand out
-4. Depth - dont just list things out,, fill in the details and make it actionable
+3. Design -  design should stand out. Can we imporve on their design?
+4. Depth - dont just list things out. Fill in the details and make it actionable
+
+Final Step: Acquire Links
+- key rec is having already producerd content
+- throw that article into SEMrush, find back links, set filter to 1 doamin a piece, I only wanna see backlinks that are do-follow
+- export all back links and delete the columns you dont need 
+
+SEND EMAIL TEMPLATE TO ACQUIRE LINKS. PHOTO TAKEN
+- its about using a refernce link and saying hey you already have linked to this, but listen I have a similar site or ppst "here", and its like what I referenced but more up to date!
