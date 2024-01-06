@@ -155,3 +155,101 @@ images.google.com
 - this allows you to upload an image
 - make sure the image you upload is coming from your machine and is yours
 - if each website is using your image, ask them to simply link you as a backlink
+
+
+8. Relevant Blog Commenting
+- find relevant blogs in your industry that you can comment on
+query "best digital marketing blogs"
+
+1) see if you can add a comment on a blog, comment on what the artical is about and naturally link back to your site.
+- adding comments is easy to relative blogging articles
+
+9. Social Profile Link Building
+- Add backlink to my insta 
+- linkedIn
+
+~~~~~~~~~~~~~~BEST LINK BUILDING STRATEGY~~~~~~~~~~~~~~~~
+
+"Which is the most effective link type to build?"
+
+I've tested out ALL of these link building strategies on literally over 100 different sites and I can confidently say that Guest posts are by far the most effective link building strategy out there.
+
+The main reason why is because they:
+
+Allow you to control the anchor text 
+
+They're typically do-follow links
+
+They're in-content links from relevant articles
+
+They're not quick to replicate (makes it harder for your competitors to compete with you)
+
+
+Yes, you can very easily build 100 forums links by the time it takes you to secure 5 guest post links, however, if you can secure those 100 forum links so quickly, what stops your competitor from building them so quickly too?
+
+The answer is there's nothing stopping them..
+
+
+When it comes to SEO, the best links are going to be the ones that are the most difficult (resource heavy) to acquire.
+
+However, I can almost guarantee you that if you invest the resources to acquire them, you'll rank your website a lot quicker and with a lot fewer links.
+
+Just because the competition has 200 links, it doesn't mean that you also need 200 links. 
+
+Quality is king when it comes to SEO.
+
+5 Guestpost links are more powerful than 500 forums links.
+
+Focus on securing the best quality links and you'll be ranking your website before you know it.
+
+
+To give you some more context, this top ranking result was achieved by me focusing primarily on guest posts links:
+( SEO consultant London) he is first on google!
+
+How many backlinks should I build a month?
+
+How many backlinks you need to build is dependent on the keyword you're targeting.
+
+Different keywords have different levels of competitiveness.
+
+E.g the finance niche is really competitive, and most sites in that niche are building 100+ backlinks every month.
+
+Smaller local niches on the other hand may only be building 5 backlinks a month.
+
+Essentially, what you want to do is review the top ranking sites in your niche and work out an average of how many referring domains they have.
+
+
+Let's imagine you've worked this out already, and you reach the figure of 50.
+
+You then want to deduct the amount of referring domains your site already has, lets use the figure of 10 for this example.
+
+50-10 = 40.
+
+So, building 40 referring domains would be your target.
+
+It's up to you to then determine how fast you want to build those 40 links.
+
+If you build 4 a month, you'll be on an even level playing field in 10 months.
+
+
+P.s - If your site is new, I don't recommend building more than 10 backlinks a month, start of slow with 1-2 links and build it up gradually over the coming months.
+
+
+QUIZ
+1. What is a backlink?
+- mention of your site from an external site
+
+2. Which of the below statements are correct about backlinks?
+- vote of confidence from another source
+
+3. What is anchor text?
+- clickable, linked text on a page
+
+4. What pages on your website should you build backlinks to?
+- pages you want high visibility to
+
+5. Which type of backlink provides an SEO boost and helps you rank higher in Google?
+- Do follow back links
+
+6. Which of the below elements can a backlink transfer across to another website? 
+- Relevance, Trust & Power
