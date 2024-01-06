@@ -5,6 +5,10 @@ Plug Ins used in This Course
 3. SEO quake
 4. SEO Meta In 1 Click
 5. Keyword Surfer
+6. Google Keyword Planner(signing up to google Ads)
+7. Keywordtool.io
+8. Google Auto Suggest
+9. Google Trends
 
 
 Resources Used(Sites)
@@ -13,7 +17,6 @@ Resources Used(Sites)
 3. Moz.com
 4. feedspot.com
 5. SEMrush.com
-6. Keyword.io
 7. Trends.google
 8.* Ads.google(google Ads)
 

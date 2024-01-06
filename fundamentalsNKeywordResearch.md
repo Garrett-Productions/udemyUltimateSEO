@@ -1,9 +1,7 @@
 Here is my overview of notes about the SEO course
 
 ClickSlice - owner 
-
-Hired by biggest SEP agencies to help compile advanced campaigns
-
+Hired by biggest SEO agencies to help compile advanced campaigns
 
 Overview
 - Keyworkds
@@ -13,7 +11,6 @@ Overview
 - Build with a negativty SEO attack
 - keep track of your progress
 -n Looking at results 
-
 
 ~~~~~~~~What to Expect~~~~~~~~
 
@@ -30,7 +27,7 @@ We have recently been doing a lot of SEO on our site and are actively targeting 
 1. Keyword Research
 - list of keywords 
 2. Content Generation
-- content ideas to blog about, blog aboiut keywords
+- content ideas to blog about, blog about keywords
 3. Onpage SEO
 - process follow to optimize your site
 4. Off page SEO
@@ -82,10 +79,10 @@ Keyword intent
 
 When you understand buyer content you can make sure the page person lands in and what the eprson typed in which results of sales
 
-Long term vs Short term keywqords
+Long tail vs Short tail keywoords
 
-Short tail: Yoga mat (generic)(search intent is not crystal clear)
-Long tail: red non-slip yoga mat under $30(we can generate a more concise match)
+* Short tail: Yoga mat (generic)(search intent is not crystal clear)
+* Long tail: red non-slip yoga mat under $30(we can generate a more concise match)
 - Long tail keywordas are way are targeted and way easier to rank for in google.
 - Start with long tail keywords
 
@@ -145,7 +142,7 @@ GOOGLE Ads walkthrough
 * start with your keywords first and see how beneficial they already are.
 * then go back and start with a website and plug in competitors URL's in the start with website that appear from an organic google search of that keyword
 -- from here you can see all the relevant keywords that these sites use and sift through the data.
-- you can even download the .csv file and do some sifting through all these  keywords to develop a comprehensive list of data
+- you can even download the .csv file and do some sifting through all these keywords to develop a comprehensive list of data
 
 STARTING WITH KEYWORD RESERACH
 1. Find out what keywords our websites already appear for in google
@@ -187,13 +184,13 @@ DELETE THAT
 MOZBAR extension activated shows you PA & DA
 
 * We deep dove into Page Authority and Domain Authority by simply activating our chrome extension and seeing it organically in search results.
-- This is important because niche searches like 'non slip yoga mat uk' has a handful of URL's on paghe 1 of google with a PA & DA of under 25, which isn't hard to achieve!
+- This is important because niche searches like 'non slip yoga mat uk' has a handful of URL's on page 1 of google with a PA & DA of under 25, which isn't hard to achieve!
 
 TARGET THAT KEYWORD
 
 SEMRUSH
 - we have a 7 day trial 
-- we are learning how to navigate through it, filter iut down, target specific keywords and see data analytics across the web. We know to download the .csv file or bring over all the keywords from Semrush to our excel document we have to data sift.
+- we are learning how to navigate through it, filter it down, target specific keywords and see data analytics across the web. We know to download the .csv file or bring over all the keywords from Semrush to our excel document we have to data sift.
 
 1. We dove into going into the keyword yoga mat
 1b. we filtered through the results by volume of at least 100 results 
@@ -213,61 +210,13 @@ and pasting them into SEMrush and finding our competitors keywords, we put them 
 ---- 
 So far we've learned how to create a keyword research template, by using SEMrush to find competitors keywords used on their sites, filtering and sorting them down and making a spreadsheet of all the best keywords on an excel spreadsheet, and niching or maximizing according to filter and need
 
---------------------------------------------------------------------------------
+--------------------------------------------------------
 
---------------------------------------HOW TO USE GOOGLE AUTO SUGGEST --------------------------
-1. type letter by letter in google and study the auto recommended searches 
-2. search your query, go check the 'see related search' section
-3. download the free tool keywordtool.io
+      ---HOW TO USE GOOGLE AUTO SUGGEST---
+1.Letter by letter in queryu, study auto recommended searches. 'See related Search' results near the bottom
+2. download the free tool keywordtool.io
 
---------------------It's important to keep our keywords organized------------------
-1. remove any duplicates to clean up the spreadsheet
-2. sort by a to z and browse through and delete duplicates 
-
-----------------How to validate keywords with Google Trends------------------
+----How to validate keywords with Google Trends-----
 1. Quickly making sure our keywords are trendy and checking our out 'interest over time' within GOOGLE TRENDS
 2. If they arw declining in trendiness then maybe not use it right away. QUICK CHECK upon critiquing your final list of keywords
 
-                                    QUIZ
-1. What two elements make up an SEO campaign?
-- OnpageSEP and Offpage SEO
-
-2. Which of the below is a correct description of a keyword?
-- A Keyword is the Whole Search Phrase
-
-3. What does SERP stand for?
-- Search Engine Results page
-
-4. True or False - When using Google trends, you should only view the data from the last 12 months to ensure its up to date.
-- False
-
-5. Which type of keyword is more likely to drive sales for a website?
-- Long tail keywords are more specific and as a result naturally have a higher buyer intent behind them.
-
-
-How many keywords should I target on a page?
-How many keywords should I target on a page?
-
-
-
-Glad you asked :)
-
-
-
-The straightforward answer is as many relevant keywords as possible.
-
-
-
-The key word in that sentence is 'relevant'.
-
-~~~
-
-If you're unsure what keywords are deemed as relevant, a fantastic strategy you can use is to literally Google the keywords you are unsure about and see what webpages Google returns.
-
-
-
-If Google returns the same webpages as it did for your other keywords, then that's a strong sign that Google views both keywords as similar in terms of their intent. Meaning, you'll want to target the keywords on the same page.
-
-
-
-If you notice Google returns completely different websites, then that's a good indicator that you should not target the keyword on the same page.
