@@ -32,3 +32,5 @@ GA4 is still being fully updated
 ~~~~~~~~~~GA4 SETUP~~~~~~~~~~
 
 I must setup on wordpress backend, because I already setup GA4 account accessibility, but now I need to install the plugin on the wordpress end. I can now go into my analytics account, select my data stream, and select 'tag' and add all that tutrial code
+
+OK I have added the striung to my DNS settings gonna come back tomorrow at 3PM to click verify

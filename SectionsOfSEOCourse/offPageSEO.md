@@ -1,4 +1,4 @@
-BackLinks | Anchor texts |Figure out your Back LInks\
+BackLinks | Anchor texts |Figure out your Back Links
 
 Do-Follow Backlinks vs. No-Follow back Links
 - A Backlink is a mention of your website on an external website. 
@@ -13,8 +13,6 @@ Google Rates
 4. Bounce Rate
 5. Total referring Domains(Back Links)
 6. Total Back Links
-7. 
-8.
 9. Content Length
 10. Website Security 
 11. Total Anchors

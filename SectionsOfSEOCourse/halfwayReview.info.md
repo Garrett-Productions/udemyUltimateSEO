@@ -111,3 +111,104 @@ Google Shows:
 Length of Content is based on the average length of your top 3 competitors.
 - Wordcounter.net
 Rules: avg length and 10% more rule.
+
+~~~~~~~~~~~
+
+ONPAGE CEO
+
+- Optimization in Mind
+
+* OnPage SEO is the car itself ( chassis, wheels, etc)
+* OffPage SEO (engine)
+
+3 Kings
+1. URL
+2. SEO TITLE TAG
+3. PAGE TITLE 
+
+
+First King * URL *
+
+- using concise KW's, be clever, strategic param names
+- Optimize DA & PA
+- avoid changing URL, especially if already established
+- optimize other 2 kings first
+- if a change in mandatory, then do a 301 redirect from old page
+
+Second King * SEO Title Tag *
+- main heading text in search result
+- craft title tag based on highest ranked keywords 
+
+Digital & Social Media Marketing Agency - Company, Services, Strategy | HawaiiMarketing (use this for SEO title tag on wordpress) 
+- Use keywords for meta text on wordpress as well.
+
+* Optimize Page Title
+The h1 tag represents the main thing of your page 
+- Include Keywords, very similar to URL link
+Extension: SEO Meta Click
+
+Other Things of Importance
+* Image Alt Text
+* Internal Links
+- internal page links, startegically crafted in content
+
+* Back Links
+- use internal back links in home page to brand smaller pages
+- Linking smaller pages helps with DA & PA
+- How you add internal links can increase your page rank alot
+
+Google search : site.clickslice.co.uk "algortihm" for google's algorithm
+
+~~~~~~~~~~~~~~~~~~~~~~
+
+OFFPAGE SEO
+
+* No-follow v.s. Do-Follow
+- A backlink from another website is a vote of confidence 
+
+Google Rates sites
+
+1. Direct Site Visits
+2. Time On Site
+3. Pages Per Session
+4. Bounce Rate
+5. Total referring Domains(Back Links)
+6. Total Back Links
+7. Content Length
+8. Website Security 
+9. Total Anchors
+10 - 14 = Keywod in body, anchor, title, meta, in density
+15. video on page 
+
+Importance of Anchor Text
+- googles follows relationships, links
+
+5 Anchors of Anchor text
+1. Exact Match, Partial Match, Brand, URL, Misc
+
+* All types of anchor text are necessary, and to have a variety
+- avoid exact match anchors to avoiud confusion
+
+Build back links to pages on your site that you want to forward attention to.
+- every piece of content should have value, it's only right to backlink them
+
+* Do-Follow links means more juice to your SEO boost
+* No-Follow links will have a rel='nofollow' and be crossed out
+- they use to be used to block spam
+
+EXT: SEO Quake and SEO Meta in 1 Click
+
+----How To Find Out What BackLinks You Already Have----
+- Enter website in SEMrush
+- you can see how many backLinks the site has, filter through them
+
+Checklist for a Good backlink
+1. Check website DA, at least 25-30
+2. # of KW's the site appears for
+3. Decent amt of organic traffic - 200 monthly visitors
+4. Referring domains - 50 
+5. Avoid tons of linking in 1 article, 1 external or 2 max
+
+Links provide Relevance, Trust and Power
+
+~~~~~~~~~OFF PAGE SEO IS TO BE LEPT SEPERATE~~~

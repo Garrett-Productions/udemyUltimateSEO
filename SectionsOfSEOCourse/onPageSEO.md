@@ -27,14 +27,14 @@ Below this you would have sub headings, h2,h3 and content
 - Avoid repeating words in a URL
 
 NOTE
-- if you have decent ra nkingss and links pointing to your current page you may want to avoid changing the URL's. Changing the URL can result in a dropping rank 
+- if you have decent rankings and links pointing to your current page you may want to avoid changing the URL's. Changing the URL can result in a dropping rank 
 Its better to try optimizing the other 2 kings first first.
 Aternate solution would be to do a 301 redirect.
 - if you had a link to the old page it will automatically be relinked to the new URL
 
 -------Second King-----
 - main heading text you see in results
-* Yoast.seo is a searchj plugin 
+* Yoast.seo is a search plugin 
 
 * With Yoast SEO and activated, go to EDIT SNIPPET.
 - craft your own title tag based on the keywords you have.
@@ -72,11 +72,11 @@ Extension: SEO Meta Click
 In the yoga mats page include a phrase that says <p>check out our <a href="/yoga-bags">yoga bags</> here!
 
 BACK LINKS, or internal Links, are links referring to other high authority pages on your site.
-* Back Links are good to use on your home page to internally link to other main topic, keyword-used, pages on your site, likle 3 differnet sections. Meet our <a href=''>team</> here! and have a team section in your nav.
+* Back Links are good to use on your home page to internally link to other main topic, keyword-used, pages on your site, like 3 differnet sections. Meet our <a href=''>team</> here! and have a team section in your nav.
 
 Internal Links Help Link Juice Flow
 It helps with navigation for users and PA score.
-"SEO Consultant for Businesses in London.
+"SEO Consultant for Businesses in London."
 - Linking a smaller page from your main page will defintiely help it get picked and rise the PA & DA
 ***Internal Links and how you add them, they raise your page rank a lot when used constrcutively.
 - You can link it directly in wordpress with etxtBlock and had a hyper link
@@ -85,21 +85,7 @@ Google search : site.clickslice.co.uk "algortihm"
 - this is a google keyword query and it will return every page on your site with the keyword Algorithm in it
 - By internally linking a keyword such as "Algorithm" we can search like this and find all results or pages from our query
 
-QUIZ
-1. What is the definition of on page SEO?
-- any change you make on the site to improve visibility 
 
-2.What is the most effective "King" you can optimise when it comes to Onpage SEO.
-- URL
-
-3. Complete the following sentence: Image Atl Text helps..
-- Visually impaired individuals.
-
-4. What is an Internal link?
-- interrnal web page link in your site
-
-5.True or false - Internal links are not helpful when it comes to increasing the relevancy of a page.
-- False
 
 
 

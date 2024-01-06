@@ -31,3 +31,18 @@ QUIZ
 4. Fresh content - You can also update an existing article to satisfy the fresh content algorithm. With that being said, which  of the below actions to a blog post counts as an update?
 - changhing a picture, adding a new sentence or removing a sentence 
 
+QUIZ
+1. What is the definition of on page SEO?
+- any change you make on the site to improve visibility 
+
+2.What is the most effective "King" you can optimise when it comes to Onpage SEO.
+- URL
+
+3. Complete the following sentence: Image Atl Text helps..
+- Visually impaired individuals.
+
+4. What is an Internal link?
+- interrnal web page link in your site
+
+5.True or false - Internal links are not helpful when it comes to increasing the relevancy of a page.
+- False

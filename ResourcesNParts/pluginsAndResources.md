@@ -2,13 +2,15 @@ Plug Ins used in This Course
 
 1. Check My Links
 2. MozBar
-3. SEO quake
+3. SEO Quake
 4. SEO Meta In 1 Click
 5. Keyword Surfer
 6. Google Keyword Planner(signing up to google Ads)
 7. Keywordtool.io
 8. Google Auto Suggest
 9. Google Trends
+10. Yoast SEO
+11. 
 
 
 Resources Used(Sites)
