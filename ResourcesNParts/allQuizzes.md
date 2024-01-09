@@ -46,3 +46,23 @@ QUIZ
 
 5.True or false - Internal links are not helpful when it comes to increasing the relevancy of a page.
 - False
+
+
+QUIZ
+
+1. How can you tell if your website is HTTPS protected?
+
+2. What is one of the benefits of using an XML sitemap on your website?
+- Makes google indexing easy
+
+3.What is duplicate content?
+- data appearing on multiple pages
+
+4. True or false - It's not possible to find all the 404 pages on your website using Google search console
+- False, its possible
+
+5. When should you consider using a 301 redirect?
+- to combine pages, or for a 404 redirect
+
+6. What should you do when you notice you have a case of Keyword Cannibalization on your website?
+- deoptimize

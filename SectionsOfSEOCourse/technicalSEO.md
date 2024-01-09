@@ -72,3 +72,37 @@ Setting up a 301 redirect
 - open both pages simaltaneously
 - once the plugin is setup, go to it, make sure 301 is selected copy and paste the url that you want to redirect, not the /, 
 - next copy the url to where you want it to redirect to
+
+
+Keyword Canibalization
+- two pages competing for same keyword, resulting in google doesnt know which to rank
+1. either redirect one to the other, or just deoptimize
+
+Steps
+- finding KW's on SEMrush, making a spreadsheet, we just need search volume and position, and URL
+- we are looking for multiple occurences of same keywords
+
+Ex) same KW, but google returns 2 differnt links on same page
+* to deoptimize, remove your KW from titles, etc
+
+* THIS IS ONLY AN ISSUE IF 2 PAGES ARE COMPETING FOR A SPOT ON THE 1ST PAGE OF GOOGLE'S SEARCH RESULTs
+
+Schema Mark Up
+- rich snippets and titles 
+1. Schemas tell search engines what your data means, not just what it says
+2. Uses unique Semantic vocab in microdata format
+3. Schema.org
+4. Invented for users 
+
+Markup Types
+- articles, eventsd, products, episodes 
+
+ADDING A SCHEMA ON WP
+- Schema – All In One Schema Rich Snippets
+
+With this plugin you can add a schema piece directly to a page, by selecting the page and configuring a rich snippet and adding right there
+
+We just added an article schema to our wordpress website
+
+~~~ now its deprecated, use this, use the Rich Results Test
+Tool: https://search.google.com/test/rich-results

@@ -11,6 +11,9 @@ Plug Ins used in This Course
 9. Google Trends
 10. Yoast SEO
 11. 301 redirects
+12. Schema – All In One Schema Rich Snippets
+13. Google Structured Data Testing Tool. Schema.org(to detect schemas)
+14. EWWWW Image Optimizer
 
 
 Resources Used(Sites)
@@ -22,6 +25,9 @@ Resources Used(Sites)
 7. Trends.google
 8. Ads.google(google Ads)
 9. https://siteliner.com/
+10. https://gtmetrix.com/analyze.html
+11. https://www.advancedwebranking.com/
+12. SERProbot.com $5
 
 * Do a domain overview for GardnerPropertyGroup
 - i did 6 hours of content today
