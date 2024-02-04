@@ -60,3 +60,11 @@ YOAST SEO on WordPress Site
 
 HEADING TAGS
 H1's AND H2's
+1. Main keyword in the h1
+2. 1 H1 per page, make sure its unique from the page title 
+3. as many H2 tags as you want. Ensure sub topic relevancy
+4. Same applies to H3's
+5. Write naturally
+
+
+AN SEO audit of a site will include a CSV version of (page_titles, H1's and H2's)
