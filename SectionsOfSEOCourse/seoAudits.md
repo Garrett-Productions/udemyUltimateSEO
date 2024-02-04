@@ -29,3 +29,14 @@ Redirects and 404's
 - contrary to popular demand, you can leave 301m redirects or 404's on your site, it wont kill your site
 - in fact, it may contain SEO
 - redirect to a page of similarity
+
+Optimize URLS from a keyword perspective 
+
+
+
+PAGE TITLES
+- 60 characters in length or less
+- write naturally
+- singular keywords
+- not lengthy titles
+- dont repeat words
