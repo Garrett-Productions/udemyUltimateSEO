@@ -40,3 +40,23 @@ PAGE TITLES
 - singular keywords
 - not lengthy titles
 - dont repeat words
+
+export screaming frog data as a CSV, clean up the file.
+
+Title Tags should be written naturally and under 60 characters
+- rewrite based on an audit 
+- Web Development vs SEO perspective
+
+META DESCRIPTION AUDITS
+1. under 155 characters 
+2. mention keywords 
+3. helps CTR and google rankings overall
+4. Ask Questions in the meta description
+5. Write naturally
+
+
+YOAST SEO on WordPress Site
+
+
+HEADING TAGS
+H1's AND H2's
